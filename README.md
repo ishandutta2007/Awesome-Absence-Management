@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Absence-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Absence-Management?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Absence-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Absence-Management?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Absence-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Absence-Management?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Absence-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Absence-Management?style=flat-square&color=brightgreen" alt="GitHub Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Absence-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License" /></a>
@@ -64,9 +64,9 @@ The table below catalogs top SaaS and enterprise platforms for absence tracking 
 
 ## 💻 Open-Source GitHub Projects
 
-Explore prominent self-hosted and community-driven absence management systems, sorted in **descending order by GitHub star count**.
+Explore prominent self-hosted and community-driven absence management systems, sorted in **descending order by GitHub Stars_Count**.
 
-| 📦 Repository & Stars | 📜 License | 🛠️ Technology Stack | ⚡ Capabilities & Focus |
+| 📦 Repository & GitHub_Stars | 📜 License | 🛠️ Technology Stack | ⚡ Capabilities & Focus |
 |:---|:---:|:---|:---|
 | **[Frappe HR](https://github.com/frappe/hrms)**<br/>[![Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers) | GPL-3.0 | Python (Frappe), Vue.js, MariaDB | Comprehensive leave allocation, automated accrual calculation, regional holiday calendar sync, and payroll tie-ins. |
 | **[Ever Gauzy](https://github.com/ever-co/ever-gauzy)**<br/>[![Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers) | AGPL-3.0 | TypeScript, NestJS, Angular, Docker | Business ERP & HRM suite with leave request approval workflows, employee timesheets, and contractor PTO tracking. |
